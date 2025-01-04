@@ -50,3 +50,6 @@ This project introduces a robust CAPTCHA system designed for the UIDAI portal to
 - **Challenge**: Differentiating between sophisticated bots and human users.
 - **Strategy**: Combining passive data analysis with fallback active CAPTCHA for comprehensive validation.
 
+## Video Demonstration
+Check out the video demonstration of the CAPTCHA solution:
+[![Watch the Video](https://youtu.be/v4o3KQ6hN1g)
