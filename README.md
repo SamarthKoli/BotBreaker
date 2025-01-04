@@ -52,4 +52,4 @@ This project introduces a robust CAPTCHA system designed for the UIDAI portal to
 
 ## Video Demonstration
 Check out the video demonstration of the CAPTCHA solution:
-[![Watch the Video](https://youtu.be/v4o3KQ6hN1g)
+[![Watch the Video](https://www.youtube.com/watch?v=v4o3KQ6hN1g)
