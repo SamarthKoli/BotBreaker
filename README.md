@@ -3,6 +3,11 @@
 ## Overview
 This project introduces a robust CAPTCHA system designed for the UIDAI portal to differentiate between bots and human users. By leveraging passive environmental parameters and active interaction mechanisms, the solution ensures enhanced security while providing an optimized user experience.
 
+## Image Preview
+Here is an image preview of the CAPTCHA solution:
+![CAPTCHA Solution](https://github.com/SamarthKoli/BotBreaker/blob/main/working.png)
+
+
 ## Features
 
 ### 1. **Passive Environmental Parameter Collection**
