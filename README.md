@@ -57,5 +57,5 @@ Here is an image preview of the CAPTCHA solution:
 
 ## Video Demonstration
 Check out the video demonstration of the CAPTCHA solution:
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=v4o3KQ6hN1g)
+[![Watch the Video](https://youtu.be/ANMIA00MvIc?si=p8f13S7QrOhL-d66)
 
